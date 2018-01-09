@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E999679F-81F6-4B10-ADC2-82D35C856DA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoList/Controllers/ItemsController.cs">
+    <Files>
+      <File FileName="ToDoList/Models/Repositories/EFItemRepository.cs" Line="33" Column="21" />
+      <File FileName="ToDoList.Tests/ControllerTests/ItemsControllerTest.cs" Line="91" Column="4" />
+      <File FileName="ToDoList/Controllers/ItemsController.cs" Line="31" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ToDoList" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
